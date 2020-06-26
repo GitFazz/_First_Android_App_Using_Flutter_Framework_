@@ -1,6 +1,6 @@
 # dartie_app
 
-My first flutter app for android Bismillah...
+My first flutter app for android... ;-) 
 
 ## Getting Started
 
